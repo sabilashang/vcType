@@ -14,7 +14,7 @@
 
 ## 🔧 Setup:
 1. Clone the repository and navigate to the folder
-   - ```git clone https://github.com/yourusername/vcType.git```
+   - ```git clone https://github.com/sabilashang/vcType.git```
    - ```cd vcType```
 2. Create and Activate a Virtual Environment
    - ```python -m venv .venv```
